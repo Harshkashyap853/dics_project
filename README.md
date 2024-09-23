@@ -53,8 +53,6 @@ Here is the schema diagram that represents the structure of the Retailer Databas
 
 ![Schema Diagram](https://github.com/Harshkashyap853/dics_project/blob/main/Screenshot%202024-09-23%20200422.png)
 
-*Note: Replace the above link with the actual image link after you upload it to the repository.*
-
 ## Data Transformations
 
 Key transformations performed using Informatica PowerCenter:
