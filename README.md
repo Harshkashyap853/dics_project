@@ -8,6 +8,7 @@ This project is a comprehensive **Retailer Database Management System (DBMS)** d
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Database Structure](#database-structure)
+- [Schema Diagram](#schema-diagram)
 - [Data Transformations](#data-transformations)
 - [Business Insights](#business-insights)
 - [Contributors](#contributors)
@@ -45,6 +46,14 @@ The project leverages **Informatica PowerCenter** to automate the integration of
 - Orders are linked to Customers.
 - Products are linked to Vendors.
 - Payments are linked to Orders.
+
+## Schema Diagram
+
+Here is the schema diagram that represents the structure of the Retailer Database:
+
+![Schema Diagram](https://github.com/your-repository-path/Screenshot-2024-09-23-200422.png)
+
+*Note: Replace the above link with the actual image link after you upload it to the repository.*
 
 ## Data Transformations
 
