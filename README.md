@@ -51,7 +51,7 @@ The project leverages **Informatica PowerCenter** to automate the integration of
 
 Here is the schema diagram that represents the structure of the Retailer Database:
 
-![Schema Diagram](https://github.com/your-repository-path/Screenshot-2024-09-23-200422.png)
+![Schema Diagram](https://github.com/Harshkashyap853/dics_project/blob/main/Screenshot%202024-09-23%20200422.png)
 
 *Note: Replace the above link with the actual image link after you upload it to the repository.*
 
